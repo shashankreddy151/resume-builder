@@ -1,0 +1,15 @@
+# Node.js dependencies
+node_modules/
+
+# React build output
+client/build/
+
+# Server build artifacts (if any)
+server/*.log
+
+# OS temp files
+.DS_Store
+Thumbs.db
+
+# VSCode settings
+.vscode/
